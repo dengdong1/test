@@ -141,7 +141,7 @@
         <plugin>
           <artifactId>maven-install-plugin</artifactId>
           <version>2.5.2</version>
-        </plugin>
+        </plugin>  
         <plugin>
           <artifactId>maven-deploy-plugin</artifactId>
           <version>2.8.2</version>
@@ -149,4 +149,8 @@
       </plugins>
     </pluginManagement>
   </build>
+<<<<<<< Updated upstream
+=======asdasd
+  asdasdasdasasdasd
+>>>>>>> Stashed changes
 </project>`
