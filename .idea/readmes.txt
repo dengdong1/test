@@ -8,11 +8,11 @@
   <artifactId>Ch06</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-
+ 
   <name>Ch06 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
-
+asdasdasdasd
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
@@ -141,12 +141,20 @@
         <plugin>
           <artifactId>maven-install-plugin</artifactId>
           <version>2.5.2</version>
-        </plugin>
+        </plugin>  
         <plugin>
-          <artifactId>maven-deploy-plugin</artifactId>
+          <artifactId>maven-deploy-plugi n</artifactId>
           <version>2.8.2</version>
         </plugin>
       </plugins>
     </pluginManagement>
   </build>
+<<<<<<< HEADasdasdas
+  asdasdasdas
+=======
+<<<<<<< Updated upstream
+=======asdasd
+  asdasdasdasasdasd
+>>>>>>> Stashed changes
+>>>>>>> make_onetwo
 </project>`
