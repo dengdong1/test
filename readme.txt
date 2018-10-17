@@ -143,10 +143,11 @@
           <version>2.5.2</version>
         </plugin>
         <plugin>
-          <artifactId>maven-deploy-plugin</artifactId>
+          <artifactId>maven-deploy-plugi n</artifactId>
           <version>2.8.2</version>
         </plugin>
       </plugins>
     </pluginManagement>
   </build>
+  asd
 </project>`
